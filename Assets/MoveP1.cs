@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveP1 : MonoBehaviour
 {
     Rigidbody2D Penis;
-    public float speed = 2;
+    public float speed = 1;
     // Start is called before the first frame update
     void Start()
     {
